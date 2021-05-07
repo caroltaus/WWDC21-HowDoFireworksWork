@@ -1,6 +1,8 @@
 # How Do Fireworks Work
 
 
+![capa](https://user-images.githubusercontent.com/48024795/117510004-a29fc400-af61-11eb-8fba-d0b1be901b6e.png)
+
 Swift Playground about how colors work in fireworks submitted to the WWDC21 Student Challenge
 
 
